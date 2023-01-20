@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "Mia Sadones",
+    "label": "Student",
+    "picture": "https://github.com/sadones1.png",
+    "email": "sadones@hawaii.edu",
+    "phone": "808-351-4219",
+    "website": "https://sadones1.github.io",
+    "summary": "I am studying for a BBA in Business Management and Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "sadones1", "url": "http://github.com/sadones1" },
+      { "network": "linkedin", "username": "sadones1", "url": "http://linkedin.com/in/sadones1" }
+    ]
+  },
+  "interests": [
+    { "name": "Business Consulting" },
+    { "name": "Social Media Management" },
+    { "name": "Scuba Diving" },
+    { "name": "Free Diving" }
+  ],
+  "skills": [
+    {
+      "name": "Microsoft Office",
+      "keywords": [ "Word", "Excel", "Powerpoint"]
+    },
+    {
+      "name": "Language Proficiency",
+      "keywords": [ "English Fluent", "French Conversational", "Mandarin Conversational"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Business Management (expected Spring, 2024)",
+      "studyType": "BBA",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Trident Adventures",
+      "position": "PADI Dive Master, Safety Swimmer, Sales Associate, Social Media Manager",
+      "website": "www.tridentadventures.com",
+      "startDate": "2020-10-01",
+      "endDate": "Present",
+      "summary": "Dive Master and Social Media Manager",
+      "highlights": [
+        "Guide certified divers, safety swim for helicopter jumpers, work shop, and manage social media pages daily.",
+        "Customer service and safety are our priorities."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Shanghai Healing Home",
+      "website": "https://www.instagram.com/shanghaihealinghome/?hl=en",
+      "position": "Volunteer",
+      "startDate": "2016-01-01",
+      "endDate": "2020-08-01",
+      "summary": "Work with the children",
+      "highlights": [
+        "The home is a place for Chinese orphans with special needs.",
+        "Our goals are to assist in their English skills and physiotherapy exercises."
+      ]
+    }
+  ],
+  "Certification": [
+    {
+      "title": "Taekwondo Black Belt",
+      "date": "2013-2020",
+      "awarder": "JH Kim Taekwondo Shangai",
+      "summary": "Black belt in Taekwondo, a Korean martial art."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
