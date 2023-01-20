@@ -9,7 +9,7 @@ labels:
   - Freediving
   - Ocean
   - Community
-summary: "Freediving Adventures is project focused recording individual physical limits while building a community that fosters encouragement, saftey, and an environmentally sustainable mindset."
+summary: "Freediving Adventures is a project focused recording individual physical limits while building a community that fosters encouragement, saftey, and an environmentally sustainable mindset."
 ---
 
 <div class="text-center p-4">
