@@ -21,20 +21,20 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Microsoft Office",
+      "keywords": [ "Word", "Excel", "Powerpoint"]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Language Proficiency",
+      "keywords": [ "English Fluent", "French Conversational", "Mandarin Conversational"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Business Management (expected Spring, 2024)",
+      "studyType": "BBA",
+      "startDate": "2020-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -42,69 +42,38 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Trident Adventures",
+      "position": "PADI Dive Master, Safety Swimmer, Sales Associate, Social Media Manager",
+      "website": "www.tridentadventures.com",
+      "startDate": "2020-10-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Dive Master and Social Media Manager",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Guide certified divers, safety swim for helicopter jumpers, work shop, and manage social media pages daily.",
+        "Customer service and safety are our priorities."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "organization": "Shanghai Healing Home",
+      "website": "https://www.instagram.com/shanghaihealinghome/?hl=en",
+      "position": "Volunteer",
       "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "endDate": "2020-08-01",
+      "summary": "Work with the children",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "The home is a place for Chinese orphans with special needs.",
+        "Our goals are to assist in their English skills and physiotherapy exercises."
       ]
     }
   ],
-  "awards": [
+  "Certification": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Taekwondo Black Belt",
+      "date": "2013-2020",
+      "awarder": "JH Kim Taekwondo Shangai",
+      "summary": "Black belt in Taekwondo, a Korean martial art."
     }
   ],
   "references": [
