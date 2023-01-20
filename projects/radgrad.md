@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/FreedivingAdventures.jpeg
+image: img/FA.jpeg
 title: "Freediving Adventures"
 date: 2023-01-15
 published: true
