@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/IMG_0283.jpg
 title: "Freediving Adventures"
 date: 2023-01-15
 published: true
